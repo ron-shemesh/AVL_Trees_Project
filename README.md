@@ -1,3 +1,5 @@
+
+
 This project is an academic exercise with two main components:
 1. Practical Part - An implementation of an AVL Tree in Python 3.13.
 
